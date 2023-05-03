@@ -1,6 +1,6 @@
 {
   "name": "react-thousand-separator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Thousand separator, usable in JavaScript projects.",
   "main": "index.js",
   "scripts": {
