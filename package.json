@@ -1,0 +1,22 @@
+{
+  "name": "react-thousand-separator",
+  "version": "1.0.0",
+  "description": "Thousand separator, usable in JavaScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmad-ahmadnejad/thousand-separator.git"
+  },
+  "keywords": [
+    "thousand_separator"
+  ],
+  "author": "Ahmad-AhmadNejad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmad-ahmadnejad/thousand-separator/issues"
+  },
+  "homepage": "https://github.com/ahmad-ahmadnejad/thousand-separator#readme"
+}
